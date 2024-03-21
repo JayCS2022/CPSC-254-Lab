@@ -1,2 +1,1 @@
-# CPSC-254-Lab
-# new-feature
+# Software - new-feature team member 2
